@@ -4,7 +4,6 @@
 - 💞️ I’m looking for a first job as web dev 
 - 📫 How to reach me mgp.ballat@gmail.com
 
-PS: My commits are hidden, I do commit almost everyday!
 
 <!---
 Morganballat/Morganballat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
