@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morganballat
 - 👀 I’m interested in JS and associated frameworks
-- 🌱 I’m currently learning React Redux ans Node
+- 🌱 I’m currently on an internship (ends on january 15)
 - 💞️ I’m looking for a first job as web dev 
 - 📫 How to reach me mgp.ballat@gmail.com
 
