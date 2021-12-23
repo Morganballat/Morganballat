@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Morganballat
 - 👀 I’m interested in JS and associated frameworks
 - 🌱 I’m currently on an internship (ends on january 15)
-- 💞️ I’m looking for a first job as web dev 
+- 💞️ I’m looking for any opportunity to grow as a web dev 
 - 📫 How to reach me mgp.ballat@gmail.com
 
 
