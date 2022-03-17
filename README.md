@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Morganballat
-- 👀 I’m interested in JS and associated frameworks
-- 🌱 I’m currently on an internship (ends on january 15)
+- 👀 I’m interested in front and back web development
+- 🌱 I’m currently working at euro4x4parts in an apprenticeship (bachelor level). (currently working with PHP/Symfony, Js/Ts)
+-     I have knowledge in React, Redux, Node, Php, Js, symfony, css/scss/bs, html, Magento2
 - 💞️ I’m looking for any opportunity to grow as a web dev 
 - 📫 How to reach me mgp.ballat@gmail.com
 
